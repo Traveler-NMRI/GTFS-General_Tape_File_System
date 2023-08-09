@@ -1,0 +1,9 @@
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\bin\x64\Debug\LTFSTapeVolumeManager.exe
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\bin\x64\Debug\LTFSTapeVolumeManager.pdb
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.LTFSManage.resources
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.Message.resources
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.Resources.resources
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.vbproj.GenerateResource.Cache
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.exe
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.pdb
+G:\LTFSTapeVolume\LTFSTapeVolumeManager\obj\x64\Debug\LTFSTapeVolumeManager.vbprojResolveAssemblyReference.cache
