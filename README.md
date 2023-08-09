@@ -1,4 +1,6 @@
 # GTFS-General-Tape-File-System
+Copyright (C) 2023 explorer-computer
+
 Tape that supports almost all technologies. Directly operate using Explorer.exe.
 
 DO NOT USE IT FOR COMMERCIAL PURPOSES!
@@ -13,6 +15,8 @@ We greatly welcome you to use/test this software internally. If you want to disc
 
 This software uses the GNU open source protocol, and we hope you can comply with the treaties in the GNU open source protocol.
 
+On Goodwill Thinking, we hope that you do not steal our intellectual labor achievements. This program will apply for independent intellectual property protection upon completion. Please use/reference/modify this software using legal methods. Quoting/modifying this software must seek the author's permission!
+
 本软件几乎支持所有技术的磁带。可以使用Explorer.exe直接操作。
 
 不要将本软件用于商业目的！
@@ -26,3 +30,5 @@ This software uses the GNU open source protocol, and we hope you can comply with
 我们非常欢迎您在内部使用/测试此软件。如果您想一起讨论，请加入QQ群12345456。
 
 该软件使用GNU开源协议，我们希望您能够遵守GNU开源协定中的条约。
+
+出于良心考虑，我们希望您不要窃取我们的知识劳动成果，本项目将会在完成时申请自主知识产权保护。请用合法的方法使用/引用/修改本软件。引用/修改本软件必须征求作者的许可！
