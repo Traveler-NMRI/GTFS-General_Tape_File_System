@@ -5,7 +5,7 @@ Tape that supports almost all technologies. Directly operate using Explorer.exe.
 
 DO NOT USE IT FOR COMMERCIAL PURPOSES!
 
-This software improves the leaky LTFS technology, making it more practical, stable, and faster. The driver indirectly reads and writes to the tape, and the official version will use the service for tape operations. During the internal testing/development phase, using unmanaged management software is slower compared to services.
+This software improves the problematical LTFS technology, making it more practical, stable, and faster. The driver indirectly reads and writes to the tape, and the official version will use the service for tape operations. During the internal testing/development phase, using unmanaged management software is slower compared to services.
 
 !Warning!
 
