@@ -1,0 +1,20 @@
+﻿生成启动时间为 2023/8/4 12:56:18。
+     1>项目“G:\LTFSTapeVolume\LTFSTapeVolumeDriver\LTFSTapeVolumeDriver.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“G:\LTFSTapeVolume\DriverManage\”。
+       InitializeBuildStatus:
+         正在创建“DriverManage\LTFSTapeVolumeDriver.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         J:\Visual Studio 2010\VC\bin\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Oy- /D WIN32=100 /D _X86_=1 /D WINVER=0x500 /D DBG=1 /Gm- /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"DriverManage\\" /Fd"DriverManage\vc100.pdb" /Gz /TC /analyze- /errorReport:prompt main.c
+         main.c
+       Link:
+         J:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\LTFSTapeVolume\DriverManage\LTFSTapeVolumeDriver.sys" /INCREMENTAL:NO /NOLOGO ntoskrnl.lib wdm.lib wdmsec.lib wmilib.lib ndis.lib Hal.lib MSVCRT.LIB LIBCMT.LIB kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST:NO /DEBUG /PDB:"G:\LTFSTapeVolume\DriverManage\LTFSTapeVolumeDriver.pdb" /SUBSYSTEM:NATIVE /Driver /TLBID:1 /ENTRY:"DriverEntry" /BASE:"0x10000" /IMPLIB:"G:\LTFSTapeVolume\DriverManage\LTFSTapeVolumeDriver.lib" /MACHINE:X86 DriverManage\main.obj
+         LTFSTapeVolumeDriver.vcxproj -> G:\LTFSTapeVolume\DriverManage\LTFSTapeVolumeDriver.sys
+       FinalizeBuildStatus:
+         正在删除文件“DriverManage\LTFSTapeVolumeDriver.unsuccessfulbuild”。
+         正在对“DriverManage\LTFSTapeVolumeDriver.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\LTFSTapeVolume\LTFSTapeVolumeDriver\LTFSTapeVolumeDriver.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.20
