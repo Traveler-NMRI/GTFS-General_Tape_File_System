@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LTFSTapeVolumeDriver", "LTFSTapeVolumeDriver\LTFSTapeVolumeDriver.vcxproj", "{137C90A2-14E4-4A13-9715-47EAC0C0162D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LTFSTapeVolumeManager", "LTFSTapeVolumeManager\LTFSTapeVolumeManager.vbproj", "{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DriverManage|Mixed Platforms = DriverManage|Mixed Platforms
+		DriverManage|Win32 = DriverManage|Win32
+		DriverManage|x64 = DriverManage|x64
+		DriverManage|x86 = DriverManage|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|Win32.Build.0 = Debug|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|x64.ActiveCfg = Debug|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|x64.Build.0 = Debug|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Debug|x86.ActiveCfg = Debug|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|Mixed Platforms.ActiveCfg = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|Mixed Platforms.Build.0 = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|Win32.ActiveCfg = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|Win32.Build.0 = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|x64.ActiveCfg = DriverManage|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|x64.Build.0 = DriverManage|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|x86.ActiveCfg = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.DriverManage|x86.Build.0 = DriverManage|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|Win32.ActiveCfg = Release|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|Win32.Build.0 = Release|Win32
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|x64.ActiveCfg = Release|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|x64.Build.0 = Release|x64
+		{137C90A2-14E4-4A13-9715-47EAC0C0162D}.Release|x86.ActiveCfg = Release|Win32
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|Win32.ActiveCfg = Debug|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|x64.ActiveCfg = Debug|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|x64.Build.0 = Debug|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|x86.ActiveCfg = Debug|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Debug|x86.Build.0 = Debug|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|Mixed Platforms.ActiveCfg = DriverManage|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|Mixed Platforms.Build.0 = DriverManage|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|Win32.ActiveCfg = DriverManage|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|x64.ActiveCfg = Debug|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|x64.Build.0 = Debug|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|x86.ActiveCfg = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.DriverManage|x86.Build.0 = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|Win32.ActiveCfg = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|x64.ActiveCfg = Release|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|x64.Build.0 = Release|x64
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|x86.ActiveCfg = Release|x86
+		{D488B5D0-78AF-4BCC-81FB-3EC6957D126A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
